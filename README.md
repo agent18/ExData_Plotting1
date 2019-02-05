@@ -1,3 +1,11 @@
+## Usage of files
+
+All files can be run individually. As the main file
+`household_power_consumption.txt` (to be obtained from DATASET below)
+is too big for GITHUB, you need to copy and paste it in the folder
+before the main git folder. Once this is done all the plot files will
+run smoothly, identify which rows are important and make the plots.
+
 ## Introduction
 
 This assignment uses data from
